@@ -4,7 +4,7 @@ Jersey internally uses Jackon API
 
 This example demonstrate how to convert java object into JSON.
 1) JAVA Object (POJO) --> JSON.json ( in a file)
-2) JAVA Object --> jsonToString.json ( in a string variable)
+2) JAVA Object (POJO) --> jsonToString.json ( in a string variable)
 
 
 **add jersey-media-json-jackson in pom.xml**
